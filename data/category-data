@@ -126,7 +126,7 @@ this file was handmade
   
   these are technically special chests, but i am making them their own category
   they could also be in the vault category, but they have different display text
-  #Wraith Chest: 210, 231, 309, 321, 343, 351, 390, 409, 440, 445, 485
+  #Wraith Chest: 409, 231, 309, 485, 351, 321, 210, 343, 390, 440, 445
   
   #Special Chest
     the challenge: 103
@@ -255,7 +255,7 @@ this file was handmade
     #50 Key Chest: 56, 115
     #100 Key Chest: 69, 84
     #Gold Key Chest: 100, 74
-  #Wraith Chest: 63, 90, 91, 114
+  #Wraith Chest: 90, 91, 63, 114
 
   #Shards
     fire: 24
@@ -333,7 +333,7 @@ this file was handmade
     #50 Key Chest: 87, 142, 143
     #100 Key Chest: 42, 77, 94, 106
     #Gold Key Chest: 43, 66
-  #Wraith Chest: 63, 71, 116, 138, 147, 57
+  #Wraith Chest: 138, 63, 71, 57, 116, 147
 
   #Shards
     poison: 20
@@ -424,7 +424,7 @@ this file was handmade
     #50 Key Chest: 79, 96
     #100 Key Chest: 57, 71
     #Gold Key Chest: 95, 88
-  #Wraith Chest: 44, 55, 83, 92
+  #Wraith Chest: 92, 44, 55, 83
 
   shops
     #Shop: 21, 35, 38
