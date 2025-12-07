@@ -71,30 +71,30 @@ this file was handmade
   #Gauntlets:
     a gauntlet: 242
     
-    specific gauntlets, minus at the start means the
-    gauntlet is inaccessible at the time of writing.
-    this does not affect the order
+    specific gauntlets
 
     time: 138
     crystal: 139
     spike: 141
     monster: 142
-    -rune: 312
-    -spooky: 315
-    -haunted: 476
-    -acid: 467
-    -toxic: 436
+    spooky: 315
+    haunted: 476
     halloween: 326
-    -treasure: 316
-    -gem: 397
+    treasure: 316
+    gem: 397
     inferno: 244
-    -surprise: 303
     cursed: 425
     cyborg: 377
     castle: 408
-    -grave: 453
     discord: 482
     ncs i: 452
+
+  #Upcoming Gauntlets:
+    -rune: 312
+    -acid: 467
+    -toxic: 436
+    -surprise: 303
+    -grave: 453
 
   #Paths:
     fire: 213, 236
@@ -126,8 +126,9 @@ this file was handmade
   
   these are technically special chests, but i am making them their own category
   they could also be in the vault category, but they have different display text
-  #Wraith Chest: 409, 231, 309, 485, 351, 321, 210, 343, 390, 440, 445
-  
+  #Wraith Chest: 409, 231, 309, 485, 351, 321
+  #Unknown Wraith Chest: 210, 343, 390, 440, 445
+
   #Special Chest
     the challenge: 103
     100 chest chest: 104
@@ -172,7 +173,8 @@ this file was handmade
     #50 Key Chest: 82, 85, 97, 135
     #100 Key Chest: 55, 116, 132, 136, 138, 160, 169
     #Gold Key Chest: 133, 165, 139, 147
-  #Wraith Chest: 121, 146, 155, 158
+  #Wraith Chest: 121, 146
+  #Unknown Wraith Chest: 155, 158
 
   shops
     #Shop: 27
@@ -194,11 +196,13 @@ this file was handmade
 
   #Gauntlets:
     death: 49
-    -dragon: 96
-    -snake: 142
     mystery: 166
     split: 90
     ncs ii: 117
+
+  #Upcoming Gauntlets:
+    -dragon: 96
+    -snake: 142
 
   #Paths:
     fire: 143
@@ -255,7 +259,8 @@ this file was handmade
     #50 Key Chest: 56, 115
     #100 Key Chest: 69, 84
     #Gold Key Chest: 100, 74
-  #Wraith Chest: 90, 91, 63, 114
+  #Wraith Chest: 90, 91
+  #Unknown Wraith Chest: 63, 114
 
   #Shards
     fire: 24
@@ -333,7 +338,8 @@ this file was handmade
     #50 Key Chest: 87, 142, 143
     #100 Key Chest: 42, 77, 94, 106
     #Gold Key Chest: 43, 66
-  #Wraith Chest: 138, 63, 71, 57, 116, 147
+  #Wraith Chest: 138, 63, 71, 57
+  #Unknown Wraith Chest: 116, 147
 
   #Shards
     poison: 20
@@ -360,7 +366,7 @@ this file was handmade
 
     water: 137
     galaxy: 119
-    -space: 133
+    space: 133
 
   #Paths:
     fire: 79
@@ -424,8 +430,8 @@ this file was handmade
     #50 Key Chest: 79, 96
     #100 Key Chest: 57, 71
     #Gold Key Chest: 95, 88
-  #Wraith Chest: 92, 44, 55, 83
-
+  #Wraith Chest: 92
+  #Unknown Wraith Chest: 44, 55, 83
   shops
     #Shop: 21, 35, 38
     #Secret Shop: 18, 78
@@ -435,11 +441,13 @@ this file was handmade
 
   #Gauntlets:
     15 gauntlets: 74
-
+    
+  #Upcoming Gauntlets:
     -potion: 94
-    fantasy: 90
-    -christmas: 63
     -temple: 49
+
+    fantasy: 90
+    christmas: 63
 
   #List Rewards: 89
   #2.21: 39, 40, 48, 61, 67, 69, 70
@@ -522,10 +530,11 @@ this file was handmade
     #10 Key Chest: 34, 52, 63
     #50 Key Chest: 47, 62
     #100 Key Chest: 41, 48, 59, 61
-    #Gold Key Chest: 33, 31
-  #Wraith Chest: 40
+    #Gold Key Chest: 5, 24
+  #Unknown Wraith Chest: 40, 33, 31
   #Gauntlets:
     demon: 10
+  #Upcoming Gauntlets:
     -spider: 67
   shops
     #Shop: 2, 18
@@ -594,6 +603,7 @@ this file was handmade
   #Diamond Shop: 5
 
   #Gauntlets
-  -cosmos: 7
+  cosmos: 7
   
-  #Wraith Chest: 6, 8
+  #Wraith Chest: 8
+  #Unknown Wraith Chest: 6
