@@ -450,13 +450,12 @@ this file was handmade
 
   #Gauntlets:
     15 gauntlets: 74
+    fantasy: 90
+    christmas: 63
     
   #Upcoming Gauntlets:
     potion: 94
     temple: 49
-
-    fantasy: 90
-    christmas: 63
 
   #List Rewards: 89
   #2.21: 39, 40, 48, 61, 67, 69, 70
